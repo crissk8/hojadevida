@@ -1,2 +1,2 @@
 # hojadevida
-integrantes: Cristian Javier Tarrapuez Jaramillo 
+integrantes: Cristian Javier Tarapuez Jaramillo 
